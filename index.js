@@ -1,5 +1,6 @@
 // add solution here
 
+// Notes 
 //  musicians is the musicians array 
 //  instruments is the instruments array 
 
