@@ -7,12 +7,12 @@
 
 function theBeatlesPlay(musicians, instruments) {
   
-  const array = [];
+  const beatlesArray = [];
 
   for(let i =0; i < musicians.length; i++) {
-    array.push(`${musicians[i]} plays ${instruments[i]}`)
+    beatlesArray.push(`${musicians[i]} plays ${instruments[i]}`)
   }
-  return array;
+  return beatlesArray;
 }
 
 function johnLennonFacts(facts) {
