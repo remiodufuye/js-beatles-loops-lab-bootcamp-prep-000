@@ -1,8 +1,8 @@
 // add solution here
 
-// 
-//
+// musicians is the musicians array 
+// instruments is the instruments array 
 
-function theBeatlesPlay(array1 , array2) {
+function theBeatlesPlay(musicians , instruments) {
   
 }
